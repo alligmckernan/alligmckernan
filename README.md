@@ -45,5 +45,5 @@ Jupyter Notebook | Google Colab | Git | GitHub
 
 ## 📫 Connect With Me
 
-LinkedIn: [(https://www.linkedin.com/in/allison-mckernan/)]  
-Email: [alligmckernan@gmail.com]  
+LinkedIn: https://www.linkedin.com/in/allison-mckernan/  
+Email: alligmckernan@gmail.com  
