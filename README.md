@@ -1,6 +1,6 @@
 # Hi, I'm Alli 👋
 
-🎓 MS in Applied Data Science — Graduating Spring 2026  
+🎓 MS in Applied Data Science | BS in Engineering Management
 💼 Aspiring ML Engineer | Data Scientist | Analytics Professional  
 📍 Spokane, WA  
 
